@@ -174,6 +174,7 @@ namespace Corby.BotwClone
             _animIDFreeFall = Animator.StringToHash("FreeFall");
             _animIDMotionSpeed = Animator.StringToHash("MotionSpeed");
         }
+        
 
         private void GroundedCheck()
         {
