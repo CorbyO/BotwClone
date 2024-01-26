@@ -5,52 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd6c0b4c-1e51-4bf9-8e8e-46416d37025d" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BotwClone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BotwClone/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/CanvasInputs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_Joysticks.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_Joysticks.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_TouchZones.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/CanvasInputs/UI_Canvas_StarterAssetsInputs_TouchZones.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/EventSystem.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/VirtualInputs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Button.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Button.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Joystick.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Joystick.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_TouchZone.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_TouchZone.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/CanvasInputs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/Utilities.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/VirtualInputs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Circle_Bevel_Base.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Circle_Bevel_Base.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Circle_Faded.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Circle_Faded.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Icon_Jump.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Icon_Jump.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Icon_Look.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Icon_Look.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Icon_Move.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Icon_Move.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Icon_Sprint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Mobile/UI/UI_Icon_Sprint.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BotwClone/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Animation Rigging/1.2.0/Animation Rigging Constraint Samples/Animation/Anim_walk.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Animation Rigging/1.2.0/Animation Rigging Constraint Samples/Animation/Anim_walk.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Animation Rigging/1.2.0/Animation Rigging Constraint Samples/Controllers/rootCAim.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Animation Rigging/1.2.0/Animation Rigging Constraint Samples/Controllers/rootCAim.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Animation Rigging/1.2.0/Animation Rigging Constraint Samples/Scenes/Aim.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/Animation Rigging/1.2.0/Animation Rigging Constraint Samples/Scenes/Aim.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +60,7 @@
 }</component>
   <component name="RunManager" selected="Unity 에디터에 연결.Unity 에디터에 연결">
     <configuration name="유닛 테스트(배치 모드)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="E:\Program Files\UnityEditors\2022.3.16f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\SUPERTRUNK_Dev003\repos\BotwClone -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\SUPERTRUNK_Dev003\repos\BotwClone" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -105,7 +68,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unity 시작" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="E:\Program Files\UnityEditors\2022.3.16f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\SUPERTRUNK_Dev003\repos\BotwClone -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\SUPERTRUNK_Dev003\repos\BotwClone" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -144,6 +107,7 @@
       <workItem from="1706085900006" duration="2000" />
       <workItem from="1706086813710" duration="1243000" />
       <workItem from="1706170482005" duration="1565000" />
+      <workItem from="1706274480878" duration="11000" />
     </task>
     <servers />
   </component>
